@@ -27,10 +27,23 @@ py -3.11 03_predict.py
 
 ## Results & Graphs
 
+## Results & Graphs
+
 ### 1. Training History
 ![Training History](training_history.png)
-Model 90%+ accuracy tak pahucha with Early Stopping.
+Model 90%+ accuracy.
 
-### 2. Confusion Matrix
+### 2. Confusion Matrix  
 ![Confusion Matrix](confusion_matrix.png)
-Scratch class ka recall 11% se 62% improve hua.
+ 11% to 62% improved.
+
+### 3. Defect Samples
+![Wafer Samples](wafer_samples.png)
+8 types defects: Center, Donut, Edge-Loc, etc.
+
+### 4. Class Distribution
+![Distribution](defect_distribution.png)
+class imbalance quality is visible
+### 5. Sample Prediction
+![Prediction](prediction_result.png)
+Model detected 'Scratch' defect correctly  with 94% confidence.
