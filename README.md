@@ -1,5 +1,4 @@
-# wafer_defect_detection_cnn
-CNN model for semiconductor wafer defect classification using WM-811K dataset. Achieves 90% accuracy on 8 defect types with class balancing.
+
 # Wafer Map Defect Detection using CNN
 
 Semiconductor wafer defect classification using Convolutional Neural Network on WM-811K dataset.
