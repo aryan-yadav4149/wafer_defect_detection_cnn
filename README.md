@@ -28,17 +28,6 @@ py -3.11 03_predict.py
 ![Training History](training_history.png)
 Model 90%+ accuracy tak pahucha with Early Stopping.
 
-### 2. Confusion Matrix  
+### 2. Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 Scratch class ka recall 11% se 62% improve hua.
-
-### 3. Defect Samples
-![Wafer Samples](wafer_samples.png)
-8 types ke defects: Center, Donut, Edge-Loc, etc.
-
-### 4. Class Distribution
-![Distribution](defect_distribution.png)
-Dataset me class imbalance clearly visible hai.
-### 5. Sample Prediction
-![Prediction](prediction_result.png)
-Model ne 'Scratch' defect correctly detect kiya with 94% confidence.
