@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dataset and Model - Bahut bade hain
+LSWMD.pkl
+*.h5
+*.pkl
+
+# Generated images
+*.png
+
+# VS Code
+.vscode/
