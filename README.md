@@ -19,9 +19,12 @@ pip install tensorflow pandas scikit-learn matplotlib seaborn
 py -3.11 01_eda.py
 py -3.11 02_train.py
 py -3.11 03_predict.py
+```
+
 ## Dataset Setup
 1. Download `LSWMD.pkl` from [Kaggle](https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map)
 2. Place `LSWMD.pkl` in the same folder as the `.py` files
+
 ## Results & Graphs
 
 ### 1. Training History
